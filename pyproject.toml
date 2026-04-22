@@ -1,0 +1,5 @@
+[project]
+name = "startup-validator"
+version = "1.0.0"
+description = "End-to-end startup idea validation and launch planning skill for Claude"
+requires-python = ">=3.11"
