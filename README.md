@@ -32,3 +32,7 @@ Produces a versioned zip file in `dist/` ready for customer delivery.
 ## Triggers
 
 Say any of these to activate: "validate my idea", "startup plan", "business idea", "should I build this", "MVP plan", "how to launch", "find my niche", "get first customers"
+
+## Community
+
+Built something with this? Share it in the [Build With AI](https://skool.com/buildwithai/about) community.
